@@ -26,7 +26,7 @@ Scams refer to the unfortunate
 Those addresses were taken frome websites such as [walletexplorer.com](www.walletexplorer.com) and [bitcoinabuse.com](https://bitcoinabuse.com) and then labeled accordingly. 
 
 In a next step I went through various datasets, 
-[MIT.edu](https://senseable2015-6.mit.edu/bitcoin/)
+[MIT.edu](https://senseable2015-6.mit.edu/bitcoin/), 
 [Datahub.io](https://datahub.io/cryptocurrency/bitcoin)
 to look those labeled addresses and their corresponding transactions up. 
 
@@ -98,4 +98,4 @@ Both datasets
 * [Notebook Regression Modell](https://github.com/Lizzl/Predicting-BTC-spendings/blob/main/A%20Forensic%20Analysis%20of%20the%20BTC%20Economy.ipynb)
 * [Tableau Visualizations](https://public.tableau.com/profile/alice.kohn#!/vizhome/The_BTC_Economy/BTCEconomyin2018?publish=yes)
 * [Clean Dataset as CSV](https://github.com/Lizzl/Predicting-BTC-spendings/blob/main/BTC_Spending_Analsis.csv)
-* [Presentation] (https://github.com/Lizzl/Predicting-BTC-spendings/blob/main/Presentation.pdf)
+* [Presentation](https://github.com/Lizzl/Predicting-BTC-spendings/blob/main/Presentation.pdf)
