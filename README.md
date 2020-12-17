@@ -60,10 +60,8 @@ I then added metadata and filtered from the BTC ecosystem dara the corresponding
 - writeup/reporting
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook_Understanding the Data](https://github.com/Lizzl/mid_bootcamp_project_regression-Alice/blob/main/King-County-Housing-Prices_Understanding-the-Data.ipynb)
 * [Notebook Regression Modell](https://github.com/Lizzl/mid_bootcamp_project_regression-Alice/blob/main/King-County-Housing-Prices_Linear-Regression-Model_final_Alice.ipynb)
-* [Sql_Queries](https://github.com/Lizzl/mid_bootcamp_project_regression-Alice/blob/main/SQL_queries_Alice.sql)
-* [Tableau Visualizations](https://public.tableau.com/profile/alice.kohn#!/vizhome/KingCountyHousingPrices_16057394526840/Story1?publish=yes)
+* [Tableau Visualizations](https://public.tableau.com/profile/alice.kohn#!/vizhome/The_BTC_Economy/BTCEconomyin2018?publish=yes)
 * [Clean Dataset as CSV](https://github.com/Lizzl/mid_bootcamp_project_regression-Alice/blob/main/regression_data_clean.csv)
 
 
