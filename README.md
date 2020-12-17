@@ -5,7 +5,7 @@ This is the result of my final project of the Data Analyst Bootcamp at Ironhack
 
 ## Project Intro/Objective
 Bitcoin is money on the internet, invented in 2009 by an unknown person called Satoshi Nakamoto. 
-Every Bitcoin(BTC)-Addresse (a BTC addresse is comparable to a bank IBAN number), every transaction made on the Bitcon network is encrypted, the only thing made public is the amount transferred as well as the UNIX-timestamp the transfer was made. 
+Every Bitcoin(BTC)-Addresse (a BTC addresse is comparable to a bank account number), every transaction made on the Bitcon network is encrypted, the only thing made public is the amount transferred as well as the UNIX-timestamp the transfer was made. 
 
 However, some BTC-addresses have been identified, either because they are published by the entity owning these addresses themselves or because they could have been identified during criminal investigations, etc. 
 
@@ -23,7 +23,7 @@ Gambling is self-explanatory.
 Illicit activties are portals on the Dark Net, where users can buy drugs and other illicit products using Bitcoin. 
 Scams refer to the unfortunate 
 
-Those addresses were taken frome websites such as https://www.walletexplorer.com and bitcoinabuse.com and then labeled accordingly. 
+Those addresses were taken frome websites such as www.walletexplorer.com and bitcoinabuse.com(https://bitcoinabuse.com) and then labeled accordingly. 
 
 
 In a next step I went through various datasets, 
@@ -58,4 +58,12 @@ I then added metadata and filtered from the BTC ecosystem dara the corresponding
 - hyperparameter tuning
 - visualization
 - writeup/reporting
+
+## Featured Notebooks/Analysis/Deliverables
+* [Notebook_Understanding the Data](https://github.com/Lizzl/mid_bootcamp_project_regression-Alice/blob/main/King-County-Housing-Prices_Understanding-the-Data.ipynb)
+* [Notebook Regression Modell](https://github.com/Lizzl/mid_bootcamp_project_regression-Alice/blob/main/King-County-Housing-Prices_Linear-Regression-Model_final_Alice.ipynb)
+* [Sql_Queries](https://github.com/Lizzl/mid_bootcamp_project_regression-Alice/blob/main/SQL_queries_Alice.sql)
+* [Tableau Visualizations](https://public.tableau.com/profile/alice.kohn#!/vizhome/KingCountyHousingPrices_16057394526840/Story1?publish=yes)
+* [Clean Dataset as CSV](https://github.com/Lizzl/mid_bootcamp_project_regression-Alice/blob/main/regression_data_clean.csv)
+
 
