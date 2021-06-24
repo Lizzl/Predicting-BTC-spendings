@@ -33,7 +33,7 @@ to look those labeled addresses and their corresponding transactions up.
 Each addresse can have an infinite amount of incoming and outgoing transactions, which each then can have a variable amount of inputs/ outputs. Therefore my 
 newly created datasets scaled exponentially. At the end I managed to identify 2718 BTC addresses and 7.398.258  corresponding transactions, in which BTC was spent to one of the above mentioned sectors. To further be able to work with this data I grouped it by transaction received and amount received per day by BTC addresse. I did this for both the transactions received and the transactions sent out from the labeled addresse.
 
-I then added metadata and filtered from the BTC ecosystem dara the corresponding day the transactions were made and collected metadata in order to train my ML model.  
+I then added metadata and filtered from the BTC ecosystem data on the corresponding day of the transactions. I then used the newly collected metadata in order to train my ML model.  
 
 ### Description of the Data
 
