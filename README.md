@@ -1,6 +1,5 @@
 # A Forensic Analysis of the BTC Economy 
 ## An attempt to predict what BTCs are spent on
-This is the result of my final project of the Data Analyst Bootcamp at Ironhack
 
 
 ## Project Intro/Objective
