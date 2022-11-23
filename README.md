@@ -8,13 +8,13 @@ Every Bitcoin(BTC)-Addresse (a BTC addresse is comparable to a bank account numb
 
 However, some BTC-addresses have been identified, either because they are published by the entity owning these addresses themselves or because they could have been identified during criminal investigations, etc. 
 
-In this project I attempt to use those identified addresses to cluster out certain sectors of the BTC Economy. Namely:
+In this project I attempt to train a ML model to predict what a random BTC transaction is spent on. I started of with collecting metadata on those identified addresses and then clustered out certain sectors of the BTC Economy. Namely:
 
-*Exchanges
-*Payment Service Providers
-*Gambling
-*Illicit Activties, such as Dark Net markets
-*Mining
+* Exchanges
+* Payment Service Providers
+* Gambling
+* Illicit Activties, such as Dark Net markets
+* Mining
 
 Exchanges are portals, where Bitcoin users can trade their BTCs to other cryptocurrencies or fiat money, such as USD or EUR. An increase in transactions being sent to addresses belonging to exchanges therefore indicate an increase in trading activties for BTCs.
 Payment Service Providers can be merchants that accept Bitcoins for their products. It can be service providers that enable APIs, POS Interfaces and therelike for e-commerce businesses to use Bitcoin. It can also be credit cards and other financial services that deploy Bitcoin. 
